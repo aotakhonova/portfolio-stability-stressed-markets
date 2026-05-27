@@ -1,4 +1,4 @@
-a"""
+"""
 Chapter 4 Performance Metrics and Drawdown Analysis
 
 This script builds Table 4.2 and Figure 4.2 for the master's thesis:
