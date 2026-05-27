@@ -1,0 +1,3 @@
+Download the Kenneth French 49 Industry Portfolios CSV zip file and place it in this folder.
+Expected filename:
+49_Industry_Portfolios_CSV.zip
